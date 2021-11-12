@@ -30,7 +30,7 @@ class SSearch :
         #redefining the model to get the hidden output
         color_layer =  'conv2_block3_out'
         texture_layer =  'conv4_block6_out'
-        self.output_layer_name = color_layer
+        self.output_layer_name = texture_layer
         output = model.get_layer(self.output_layer_name).output
         output = tf.keras.layers.GlobalAveragePooling2D()(output)                
         self.sim_model = tf.keras.Model(model.input, output)        
