@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="746e90a0-6f5a-473a-8952-9f065bdc2437" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/resnet50.config" beforeDir="false" afterPath="$PROJECT_DIR$/config/resnet50.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/ssearch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -67,6 +70,8 @@
       <workItem from="1636682628737" duration="1288000" />
       <workItem from="1636684165887" duration="691000" />
       <workItem from="1636685237031" duration="323000" />
+      <workItem from="1636685660839" duration="53000" />
+      <workItem from="1636685732057" duration="152000" />
     </task>
     <servers />
   </component>
